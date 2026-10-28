@@ -1,7 +1,7 @@
 # 🧠 Deep Learning Laboratory — Neural Network Architectures & Activation Functions
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:6B21A8,100:9333EA&customColorList=311042,6B21A8,9333EA&height=220&section=header&text=Deep%20Learning%20Laboratory&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Neural%20Network%20Architectures%2C%20Activation%20Functions%20%26%20Ethical%20AI&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Deep Learning Laboratory Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:6B21A8,100:9333EA&customColorList=311042,6B21A8,9333EA&height=220&section=header&text=Deep%20Learning%20Laboratory&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Neural%20Network%20Architectures%2C%20Activation%20Functions%20and%20Ethical%20AI&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Deep Learning Laboratory Banner" />
 </p>
 
 <p align="center">
